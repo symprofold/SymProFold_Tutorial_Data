@@ -412,7 +412,7 @@ alignment_domain = 2
 
 ## References to the Software mentioned and used
 
-[1] C. Buhlheller*, T. Sagmeister*, C. Grininger, N. Gubensäk, U. Sleytr, I. Usón, T. Pavkov-Keller, SymProFold - Structural prediction of symmetrical biological assemblies, 03 January 2024, Preprint, https://doi.org/10.21203/rs.3.rs-3830312/v1  
+[1] C. Buhlheller*, T. Sagmeister*, C. Grininger, N. Gubensäk, U. Sleytr, I. Usón, T. Pavkov-Keller. SymProFold: Structural prediction of symmetrical biological assemblies. Nat Commun 15, 8152 (2024). https://www.nature.com/articles/s41467-024-52138-3  
 [2] Pettersen, E. F. et al. UCSF ChimeraX: Structure visualization for researchers, educators, and developers. Protein Science 30, 70–82 (2021).  
 [3] Evans, R. et al. Protein complex prediction with AlphaFold-Multimer. bioRxiv 2021.10.04.463034 (2022).  
 [4] The UniProt Consortium, UniProt: the Universal Protein Knowledgebase in 2023, Nucleic Acids Research, Volume 51, Issue D1, 6 January 2023, Pages D523–D531, https://doi.org/10.1093/nar/gkac1052
